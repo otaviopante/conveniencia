@@ -1,0 +1,60 @@
+    body {
+        background-color: #c5c5c5;
+    }
+
+    h1 {
+        font-family: Jazz LET, fantasy;
+        color: #ff812e;
+        text-align: center;
+        font-size: 50px;
+    }
+    h2 {
+        font-family: Arial, sans-serif;
+        color:#ff812e;
+        text-align:center;
+        font-size:25px;
+    }
+
+    p {
+        font-family: Jazz LET, fantasy;
+        color: #000000;
+        text-align: center;
+        margin-top: 200px;
+        font-size: 40px;
+    }
+
+    p.credito {
+        font-family: Arial, sans-serif;
+        font-size:10px;
+       position: absolute;
+       top: -200px;
+       left:10px;
+      color: #1a191933;
+    }
+
+    p.teste {
+        font-family: Arial, sans-serif;
+        font-size:10px;
+       position: absolute;
+       top: -190px;
+       left:10px;
+      color: #1a191933;
+    }
+button {
+    margin-top:100px;
+    background-color:#c5c5c5;
+    color:#ff812e;
+    font-size:20px;
+    border-radius: 15px;
+    border: 0.5px soli black;
+}
+button2 {
+    font-family: Arial, sans-serif;
+    margin-top:100px;
+    background-color: #c5c5c5;
+    color:#ff812e;
+    font-size:22px;
+    border-radius:15px;
+    right:100px;
+    border: 1px solid black;
+}
